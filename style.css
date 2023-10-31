@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+body{
+width: 100%;
+height: 100vh;
+display: flex;
+scroll-behavior: smooth;
+gap: 20px;
+
+}
+.about{
+    width: 990px;
+    height: 1300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+.john{
+    width: 90%;
+    height: 300%;
+    background-color: black;
+    display: flex;
+    padding-top: 5%;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    scroll-behavior: smooth;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.graphy{
+    width: 100%;
+    height: 5%;
+    background-color: white;
+
+}
+ .raphy{
+    width: 95%;
+    height: 100%;
+    background-color: gray;
+} 
+
+.design{
+    width: 100%;
+    height: 5%;
+    background-color: white;
+    
+}
+.esign{
+    width: 85%;
+    height: 100%;
+    background-color: gray;
+}
+
+.shop{
+    width: 100%;
+    height: 5%;
+    background-color: white;
+    
+}
+.hop{
+    width: 80%;
+    height: 100%;
+    background-color: gray;
+}
+
+
+.husnegt{
+    width: 100%;
+    height: 20%;
+    background-color: white;
+    display: flex;
+}
+
+.one{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.five{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}.naisu{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}.zuun{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
